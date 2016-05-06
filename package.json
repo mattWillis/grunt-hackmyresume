@@ -1,5 +1,5 @@
 {
-  "name": "grunt-hackmyresume",
+  "name": "gulp-hackmyresume",
   "description": "Grunt plugin for HackMyResume.",
   "version": "0.2.0",
   "homepage": "https://github.com/hacksalot/grunt-hackmyresume",
